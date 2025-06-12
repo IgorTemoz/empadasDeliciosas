@@ -1,0 +1,32 @@
+body{
+
+}
+#a{background-color: rgb(255, 177, 113);
+text-align: center;
+padding: 15px;
+color: rgb(255, 89, 0);
+}
+#b{
+text-align: center ;
+background-color: whitesmoke;
+padding: 13px;
+
+
+}
+#c{
+text-align: left;
+background-color: rgb(255, 242, 217);
+margin-right: 150px;
+margin-left: 150px;
+padding: 10px;
+
+
+
+}
+#b a{
+    text-decoration: none;
+}
+#d{
+text-align: center;
+
+}
